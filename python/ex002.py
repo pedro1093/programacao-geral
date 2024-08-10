@@ -1,0 +1,8 @@
+a = input("Digite qualquer coisa: ")
+b = a.isnumeric() 
+c = a.isalpha()
+d = a.isupper()
+e = a.isalnum()
+f = a.islower()
+print("O tipo primitivo dessa escrita é: ", type(a))
+print("E numerico? {}, E alfabetico? {}, Está maiusculo? {}, é alfhanumerico? {}, está minusculo? {}." .format(b, c, d, e, f))

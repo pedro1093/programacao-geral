@@ -1,0 +1,17 @@
+Identifique o número do pino GPIO que você deseja usar. No exemplo, usaremos o GPIO 2 e 3
+
+Exportar o pino GPIO:
+
+echo "17" > /sys/class/gpio/export
+Configurar a direção do pino GPIO como saída:
+
+echo "out" > /sys/class/gpio/gpio17/direction
+Ligar o LED (definir o pino como alto):
+
+echo "1" > /sys/class/gpio/gpio17/value
+Desligar o LED (definir o pino como baixo):
+
+echo "0" > /sys/class/gpio/gpio17/value
+Desexportar o pino GPIO quando terminar de usá-lo:
+
+echo "17" > /sys/class/gpio/unexport
