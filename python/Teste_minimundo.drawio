@@ -1,14 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="LyhpKEWfzHGBByp8YnxM">
-    <mxGraphModel dx="815" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="djTC3hOORQ8NpMJgJuCF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FFFFFF);" edge="1" parent="1" source="iAg_dSckyqHX29PRwMMM-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iAg_dSckyqHX29PRwMMM-1" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;Cliente&lt;/b&gt;: entidade, &lt;b&gt;atributo&lt;/b&gt;: Nome, telefone&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);" parent="1" vertex="1">
           <mxGeometry x="50" y="50" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="djTC3hOORQ8NpMJgJuCF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#EEEEEE);" edge="1" parent="1" source="iAg_dSckyqHX29PRwMMM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iAg_dSckyqHX29PRwMMM-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Pet: &lt;/b&gt;entidade&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Atributos: &lt;/b&gt;Raça, Nome, espécie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);" parent="1" vertex="1">
-          <mxGeometry x="190" y="50" width="100" height="60" as="geometry" />
+          <mxGeometry x="290" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="djTC3hOORQ8NpMJgJuCF-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Consltua&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Atributos: &lt;/b&gt;data, veterinario, medicamento&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#F9F9F9);strokeColor=light-dark(#9673A6,#000000);" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
