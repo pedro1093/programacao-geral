@@ -9,7 +9,7 @@
             <mxPoint x="270" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iAg_dSckyqHX29PRwMMM-1" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;Cliente&lt;/b&gt;: entidade, &lt;b&gt;atributo&lt;/b&gt;: Nome, telefone&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);" parent="1" vertex="1">
+        <mxCell id="iAg_dSckyqHX29PRwMMM-1" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;Entidade&amp;nbsp;&lt;/b&gt;:&amp;nbsp;Cliente, &lt;b&gt;atributo&lt;/b&gt;: Nome, telefone&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);" parent="1" vertex="1">
           <mxGeometry x="50" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djTC3hOORQ8NpMJgJuCF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#EEEEEE);" edge="1" parent="1" source="iAg_dSckyqHX29PRwMMM-2">
@@ -17,10 +17,10 @@
             <mxPoint x="520" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iAg_dSckyqHX29PRwMMM-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Pet: &lt;/b&gt;entidade&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Atributos: &lt;/b&gt;Raça, Nome, espécie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);" parent="1" vertex="1">
+        <mxCell id="iAg_dSckyqHX29PRwMMM-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;Entidade&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;&quot;&gt;:&amp;nbsp;&lt;/b&gt;Pet&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Atributos: &lt;/b&gt;Raça, Nome, espécie&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#FFFFFF);strokeColor=light-dark(#9673A6,#000000);" parent="1" vertex="1">
           <mxGeometry x="290" y="50" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djTC3hOORQ8NpMJgJuCF-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Consltua&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Atributos: &lt;/b&gt;data, veterinario, medicamento&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E1D5E7,#F9F9F9);strokeColor=light-dark(#9673A6,#000000);" vertex="1" parent="1">
+        <mxCell id="djTC3hOORQ8NpMJgJuCF-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Consltua&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;Atributos: &lt;/b&gt;data, veterinario, medicamento&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#F9F9F9);strokeColor=light-dark(#0B0B0B,#000000);" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
