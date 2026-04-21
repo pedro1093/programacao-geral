@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="7-wEDGDJULFs1dPdfLGT">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IHU280q2GabMAfReDn5--1" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;pre class=&quot;overflow-visible! px-0!&quot; data-start=&quot;454&quot; data-end=&quot;508&quot;&gt;&lt;div class=&quot;relative w-full mt-4 mb-1&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl&quot;&gt;&lt;div class=&quot;h-full w-full border-radius-3xl bg-token-bg-elevated-secondary corner-superellipse/1.1 overflow-clip rounded-3xl lxnfua_clipPathFallback&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;pe-11 pt-3&quot;&gt;&lt;div class=&quot;relative z-0 flex max-w-full&quot;&gt;&lt;div id=&quot;code-block-viewer&quot; dir=&quot;ltr&quot; class=&quot;q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼ5 ͼj&quot;&gt;&lt;div class=&quot;cm-scroller&quot;&gt;&lt;div class=&quot;cm-content q9tKkq_readonly&quot;&gt;SGPD&lt;/div&gt;&lt;div class=&quot;cm-content q9tKkq_readonly&quot;&gt; (Sistema de Gestão de Processos Digitais)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="310" width="300" x="280" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Gestor" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Equipe Financeira" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Equipe de Vendas" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Contador" vertex="1">
+          <mxGeometry height="60" width="30" x="780" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Operadoras de&lt;div&gt;Pagamento&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="780" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Sistema Bancário" vertex="1">
+          <mxGeometry height="60" width="30" x="780" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="30" x="780" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--33" edge="1" parent="1" source="IHU280q2GabMAfReDn5--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IHU280q2GabMAfReDn5--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar Vendas" vertex="1">
+          <mxGeometry height="50" width="120" x="150" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--38" edge="1" parent="1" source="IHU280q2GabMAfReDn5--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IHU280q2GabMAfReDn5--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Atualizar Fluxo de Caixa" vertex="1">
+          <mxGeometry height="50" width="130" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrar venda" vertex="1">
+          <mxGeometry height="50" width="120" x="150" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerenciar Usuários" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerar Relatórios" vertex="1">
+          <mxGeometry height="50" width="120" x="590" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--37" edge="1" parent="1" source="IHU280q2GabMAfReDn5--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IHU280q2GabMAfReDn5--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Processar Pagamento" vertex="1">
+          <mxGeometry height="50" width="120" x="590" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Importar Dados" vertex="1">
+          <mxGeometry height="50" width="120" x="590" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--32" edge="1" parent="1" source="IHU280q2GabMAfReDn5--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Conciliar Pagamentos" vertex="1">
+          <mxGeometry height="50" width="120" x="150" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--30" edge="1" parent="1" source="IHU280q2GabMAfReDn5--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--31" edge="1" parent="1" source="IHU280q2GabMAfReDn5--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="IHU280q2GabMAfReDn5--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="250" />
+              <mxPoint x="110" y="300" />
+            </Array>
+            <mxPoint x="110" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gerar Relatórios" vertex="1">
+          <mxGeometry height="50" width="120" x="150" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--29" edge="1" parent="1" source="IHU280q2GabMAfReDn5--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IHU280q2GabMAfReDn5--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Acompanhar Processos" vertex="1">
+          <mxGeometry height="50" width="120" x="150" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--27" edge="1" parent="1" source="IHU280q2GabMAfReDn5--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="IHU280q2GabMAfReDn5--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--34" edge="1" parent="1" source="IHU280q2GabMAfReDn5--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="IHU280q2GabMAfReDn5--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--35" edge="1" parent="1" source="IHU280q2GabMAfReDn5--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="IHU280q2GabMAfReDn5--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--36" edge="1" parent="1" source="IHU280q2GabMAfReDn5--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="IHU280q2GabMAfReDn5--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--39" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Importar Dados" vertex="1">
+          <mxGeometry height="50" width="130" x="590" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="IHU280q2GabMAfReDn5--40" edge="1" parent="1" source="IHU280q2GabMAfReDn5--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" target="IHU280q2GabMAfReDn5--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
